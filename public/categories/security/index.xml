@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Jarrod Overson</title>
+    <link>https://jarrodoverson.com/categories/security/</link>
+    <description>Recent content in Security on Jarrod Overson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jul 2018 12:23:01 -0700</lastBuildDate>
+    
+	<atom:link href="https://jarrodoverson.com/categories/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3 Misunderstandings about Credential Stuffing attacks</title>
+      <link>https://jarrodoverson.com/post/credential-stuffing-vs-data-breaches/</link>
+      <pubDate>Thu, 19 Jul 2018 12:23:01 -0700</pubDate>
+      
+      <guid>https://jarrodoverson.com/post/credential-stuffing-vs-data-breaches/</guid>
+      <description>&lt;p&gt;Another day, another report of a &lt;a href=&#34;http://www.documentcloud.org/documents/4585869-Macys-Breach-Letter.html&#34;&gt;data breach&lt;/a&gt;. The description in Macy’s announcement, though, is noticeably different than most — there was no reference to internal systems being accessed beyond the web application and no data extracted en masse.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

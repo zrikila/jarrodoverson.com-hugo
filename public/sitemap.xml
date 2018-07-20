@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jarrodoverson.com/post/credential-stuffing-vs-data-breaches/</loc>
+    <lastmod>2018-07-19T12:23:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jarrodoverson.com/post/life-changes/</loc>
+    <lastmod>2018-07-19T08:57:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jarrodoverson.com/about/</loc>
+    <lastmod>2017-11-21T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jarrodoverson.com/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jarrodoverson.com/post/old-archive/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jarrodoverson.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarrodoverson.com/</loc>
+    <lastmod>2018-07-19T12:23:01-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarrodoverson.com/categories/meta/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarrodoverson.com/categories/personal/</loc>
+    <lastmod>2018-07-19T08:57:02-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarrodoverson.com/post/</loc>
+    <lastmod>2018-07-19T12:23:01-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarrodoverson.com/categories/security/</loc>
+    <lastmod>2018-07-19T12:23:01-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jarrodoverson.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

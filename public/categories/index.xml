@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Jarrod Overson</title>
+    <link>https://jarrodoverson.com/categories/</link>
+    <description>Recent content in Categories on Jarrod Overson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://jarrodoverson.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meta</title>
+      <link>https://jarrodoverson.com/categories/meta/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://jarrodoverson.com/categories/meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://jarrodoverson.com/categories/personal/</link>
+      <pubDate>Thu, 19 Jul 2018 08:57:02 -0700</pubDate>
+      
+      <guid>https://jarrodoverson.com/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://jarrodoverson.com/categories/security/</link>
+      <pubDate>Thu, 19 Jul 2018 12:23:01 -0700</pubDate>
+      
+      <guid>https://jarrodoverson.com/categories/security/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

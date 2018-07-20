@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jarrod Overson</title>
+    <link>https://jarrodoverson.com/post/</link>
+    <description>Recent content in Posts on Jarrod Overson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jul 2018 12:23:01 -0700</lastBuildDate>
+    
+	<atom:link href="https://jarrodoverson.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3 Misunderstandings about Credential Stuffing attacks</title>
+      <link>https://jarrodoverson.com/post/credential-stuffing-vs-data-breaches/</link>
+      <pubDate>Thu, 19 Jul 2018 12:23:01 -0700</pubDate>
+      
+      <guid>https://jarrodoverson.com/post/credential-stuffing-vs-data-breaches/</guid>
+      <description>&lt;p&gt;Another day, another report of a &lt;a href=&#34;http://www.documentcloud.org/documents/4585869-Macys-Breach-Letter.html&#34;&gt;data breach&lt;/a&gt;. The description in Macy’s announcement, though, is noticeably different than most — there was no reference to internal systems being accessed beyond the web application and no data extracted en masse.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Life and Role Changes</title>
+      <link>https://jarrodoverson.com/post/life-changes/</link>
+      <pubDate>Thu, 19 Jul 2018 08:57:02 -0700</pubDate>
+      
+      <guid>https://jarrodoverson.com/post/life-changes/</guid>
+      <description>&lt;p&gt;After nearly 15 years as a Californian, it&amp;rsquo;s time for a change.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Out with wordpress, in with Hugo</title>
+      <link>https://jarrodoverson.com/post/old-archive/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://jarrodoverson.com/post/old-archive/</guid>
+      <description>&lt;p&gt;Old blog posts are archived as static files &lt;a href=&#34;https://jarrodoverson.com/blog&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
