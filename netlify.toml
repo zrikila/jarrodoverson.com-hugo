@@ -28,3 +28,8 @@ HUGO_VERSION = "0.44"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[[headers]]
+  for = "/*" # This defines which paths this specific [[headers]] block will cover.
+  [headers.values]
+    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"

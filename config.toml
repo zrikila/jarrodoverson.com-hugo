@@ -1,4 +1,4 @@
-baseurl = "http://jarrodoverson.com/"
+baseurl = "https://jarrodoverson.com/"
 title = "Jarrod Overson"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
