@@ -5,11 +5,6 @@ title = "About Me"
 
 I'm Jarrod Overson, Director of Engineering at Shape Security where I've been since 2014. I'm a frequent speaker on security and web development topics, a published [O'Reilly author](http://shop.oreilly.com/product/0636920032922.do), and community organizer. 
 
-<video width=640 height=384 autoplay loop>
-  <source src="/finn-and-jarrod.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
-
 ### Professional experience
 
 I'm a web developer by passion and have worked at Riot Games, Napster, Verizon and a handful of startups since 2000. I'm currently focused on web security and identity protection and am Director of Engineering at Shape Security where I have been able to apply a unique background in esoteric web technologies, performance, and privacy in extremely unique ways.
