@@ -51,6 +51,11 @@ paginate = 5 #frontpage pagination
   url = "contact/"
   weight = 3
 
+  [[menu.main]]
+  name = "Speaking"
+  url = "speaking/"
+  weight = 4
+
   [params.social]
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
