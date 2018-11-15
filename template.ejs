@@ -1,0 +1,67 @@
++++
+showonlyimage = false
+draft = false
+image = "https://cdn-images-1.medium.com/max/<%= value.virtuals.previewImage.originalWidth %>/<%= value.virtuals.previewImage.imageId %>"
+date = "<%= new Date(value.firstPublishedAt).toISOString() %>"
+title = "<%- value.title %>"
+categories = [ ]
++++
+
+<%
+let textContentIndex = 0;
+const paragraphs = value.content.bodyModel.paragraphs;
+for (let i = textContentIndex; i < paragraphs.length; i++) {
+  if (paragraphs[i].type === 1) {
+    textContentIndex = i;
+    break;
+  }
+}
+const types = {
+  // normal text block
+  1 : p => `\n${p.text}\n`, 
+  // header 1
+  3 : p => `\n## ${p.text}\n`, 
+  // blockquote
+  6 : p => `\n> ${p.text}`,
+  // header 2
+  13 : p => `\n### ${p.text}\n`,
+  // iframe embed
+  11 : (p, post) => `<iframe width="560" height="316" allowfullscreen="" frameborder="0" src="https://medium.com/media/${p.iframe.mediaResourceId}?postId=${post.id}"></iframe>`,
+  // image 
+  // layout 1 = normal width
+  // layout 4 = inline to the left
+  // layout 5 = full screen width
+  // layout 6 = half size on the left
+  // layout 7 = half size on the right
+  4 : p => {
+    switch (p.layout) {
+    case 1:
+      return `<img style='max-width:100%;' src="https://cdn-images-1.medium.com/max/${p.metadata.originalWidth}/${p.metadata.id}">`
+      break;
+    case 6:
+      return `<img style='max-width:49%;' src="https://cdn-images-1.medium.com/max/${p.metadata.originalWidth}/${p.metadata.id}">`
+      break;
+    case 7:
+      return `<img style='max-width:49%;' src="https://cdn-images-1.medium.com/max/${p.metadata.originalWidth}/${p.metadata.id}">`
+      break;
+    default:
+      return `<img style='max-width:100%;' src="https://cdn-images-1.medium.com/max/${p.metadata.originalWidth}/${p.metadata.id}">`
+    }
+  },
+  default : p => `\n(( Unhandled block ))\n`
+}
+function typeHandler(p, post) {
+  return types[p.type] ? types[p.type](p, post) : types.default(p, post);
+}
+%>
+
+<% if (value.content.subtitle) { %>
+<span class=subtitle><%= value.content.subtitle %></span>
+<% } %>
+
+<!--more-->
+<%-
+paragraphs.slice(textContentIndex).map(p => typeHandler(p, value)).join('\n');
+%>
+
+[Share this on Medium](https://medium.com/@jsoverson/<%= value.uniqueSlug %>)
