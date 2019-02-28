@@ -18,7 +18,7 @@ for (let i = textContentIndex; i < paragraphs.length; i++) {
 }
 const types = {
   // normal text block
-  1 : p => `\n${p.text}\n`, 
+  1 : p => `\n${p.text.replace('<','&lt;','g').replace('>','&gt;','g')}\n`, 
   // header 1
   3 : p => `\n## ${p.text}\n`, 
   // blockquote
@@ -27,6 +27,10 @@ const types = {
   13 : p => `\n### ${p.text}\n`,
   // iframe embed
   11 : (p, post) => `<iframe width="560" height="316" allowfullscreen="" frameborder="0" src="https://medium.com/media/${p.iframe.mediaResourceId}?postId=${post.id}"></iframe>`,
+  7 : (p, post) => `\n> ${p.text}`,
+  10: (p, post) => `# ${p.text}`,
+  9: (p, post) => `- ${p.text}`,
+  8: (p, post) => '```'+`\n${p.text}\n`+'```',
   // image 
   // layout 1 = normal width
   // layout 4 = inline to the left
@@ -48,7 +52,7 @@ const types = {
       return `<img style='max-width:100%;' src="https://cdn-images-1.medium.com/max/${p.metadata.originalWidth}/${p.metadata.id}">`
     }
   },
-  default : p => `\n(( Unhandled block ))\n`
+  default : p => `\n(( Unhandled block: ${p.type} ))\n`
 }
 function typeHandler(p, post) {
   return types[p.type] ? types[p.type](p, post) : types.default(p, post);

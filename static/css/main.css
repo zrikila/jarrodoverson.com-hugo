@@ -18,6 +18,10 @@ body .main {
   font-family: 'Roboto', 'Helvetica', sans-serif;
 }
 
+.featured-image {
+  background-color:#fff;
+}
+
 .main .main__posts {
   max-width: 900px;
   padding: 0;

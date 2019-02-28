@@ -791,12 +791,17 @@ a img {
   margin-bottom: 1.5em;
 }
 
+.gist-file tr, .gist-file td {
+  border:0px !important;
+}
+
 .featured-image {
   position: relative;
   height: 0;
   padding-bottom: 50%;
   background-position: 50%;
   background-size: cover;
+  background-color:#fff;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
   -webkit-transition: -webkit-transform 0.3s ease;
