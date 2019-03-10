@@ -9,6 +9,41 @@ Speaking details, videos, and slides are listed here. If you're interested in ha
 
 Conferences & other public events
 
+#### 2019 WOPR Summit
+
+##### *How to Reverse Engineer Web Applications*
+
+- [Details](https://www.woprsummit.org/workshops)
+- [Slides](https://www.slideshare.net/JarrodOverson/how-to-reverse-engineer-web-applications)
+
+
+#### 2019 Triangle Dev Fest
+
+##### *Getting started with puppeteer*
+
+- [Details](https://triangledevfest.firebaseapp.com/)
+- Slides (coming)
+
+#### 2018 QConSF
+
+##### *Security & Psychology: Demotivating Persistent Threats*
+
+- [Details](https://qconsf.com/sf2018/presentation/security-psychology-demotivating-persistent-threats)
+- Slides (coming)
+
+#### 2018 EGaming Summit
+
+##### *Demotivating Persistent Threats in Gaming*
+
+- Slides (coming)
+
+#### 2018 InfoSeCon
+
+##### *Security & Psychology: Demotivating Persistent Adversaries* 
+
+- [Details](https://www.triangleinfosecon.com/2018presentations/)
+- Slides (coming)
+
 #### 2016 QCon SF
 
 ##### *The Life of Breached Data*
