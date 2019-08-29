@@ -1,5 +1,4 @@
 +++
-date = "2018-08-08T09:58:13-04:00"
 title = "Speaker History"
 +++
 
@@ -8,6 +7,66 @@ Speaking details, videos, and slides are listed here. If you're interested in ha
 ## Major Events
 
 Conferences & other public events
+
+#### 2019 WOPR Summit
+
+##### *How to Reverse Engineer Web Applications*
+
+- [Slides](https://www.slideshare.net/JarrodOverson/how-to-reverse-engineer-web-applications)
+
+#### 2019 Google Triangle DevFest
+
+##### *Automating Chrome with Puppeteer by Jarrod Overson*
+
+- [Details](https://triangledevfest.firebaseapp.com/speakers)
+
+#### 2019 Cirosec Trend-days Roadshow
+
+##### *Imitation Attacks - How do you stop the abuse of inherent functionality?*
+
+- No public details
+
+#### 2019 JSNation
+
+##### *Analysis of an exploited npm package*
+
+- [Details](https://www.youtube.com/watch?v=2cyib2MgvdM)
+
+#### 2019 CackalackyCon
+
+##### *Analysis of an exploited npm package*
+
+- [Details](https://www.youtube.com/watch?v=C2fHY7xBX9o&feature=youtu.be)
+
+#### 2019 QConNY
+
+##### *How Much Does It Cost to Attack You?*
+
+- [Details](https://qconnewyork.com/ny2019/presentation/how-owasp-automated-threats-are-evolving)
+
+#### 2018 E-Gaming Summit
+
+##### *More Bets, Fewer Hurdles*
+
+- No public details
+
+#### 2018 QConSF
+
+##### *Security & Psychology: Demotivating Persistent Threats*
+
+- [Details](https://www.infoq.com/presentations/security-threat-mitigation/)
+
+#### 2018 InfoSeCon
+
+##### *Security and Psycholigical Warfare*
+
+- [Details](https://www.youtube.com/watch?v=FcgT_BkCAPA)
+
+#### 2018 OWASP RTP
+
+##### *Title*
+
+- [Details]()
 
 #### 2016 QCon SF
 
