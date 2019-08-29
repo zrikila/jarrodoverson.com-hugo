@@ -8,18 +8,6 @@ Speaking details, videos, and slides are listed here. If you're interested in ha
 
 Conferences & other public events
 
-#### 2019 WOPR Summit
-
-##### *How to Reverse Engineer Web Applications*
-
-- [Slides](https://www.slideshare.net/JarrodOverson/how-to-reverse-engineer-web-applications)
-
-#### 2019 Google Triangle DevFest
-
-##### *Automating Chrome with Puppeteer by Jarrod Overson*
-
-- [Details](https://triangledevfest.firebaseapp.com/speakers)
-
 #### 2019 Cirosec Trend-days Roadshow
 
 ##### *Imitation Attacks - How do you stop the abuse of inherent functionality?*
@@ -44,29 +32,38 @@ Conferences & other public events
 
 - [Details](https://qconnewyork.com/ny2019/presentation/how-owasp-automated-threats-are-evolving)
 
-#### 2018 E-Gaming Summit
+#### 2019 WOPR Summit
 
-##### *More Bets, Fewer Hurdles*
+##### *How to Reverse Engineer Web Applications*
 
-- No public details
+- [Details](https://www.woprsummit.org/workshops)
+- [Slides](https://www.slideshare.net/JarrodOverson/how-to-reverse-engineer-web-applications)
+
+#### 2019 Triangle Dev Fest
+
+##### *Getting started with puppeteer*
+
+- [Details](https://triangledevfest.firebaseapp.com/)
 
 #### 2018 QConSF
 
 ##### *Security & Psychology: Demotivating Persistent Threats*
 
-- [Details](https://www.infoq.com/presentations/security-threat-mitigation/)
+- [Details](https://qconsf.com/sf2018/presentation/security-psychology-demotivating-persistent-threats)
+- [Video](https://www.infoq.com/presentations/security-threat-mitigation/)
+
+#### 2018 EGaming Summit
+
+##### *Demotivating Persistent Threats in Gaming*
+
+- No Public Details
 
 #### 2018 InfoSeCon
 
-##### *Security and Psycholigical Warfare*
+##### *Security & Psychology: Demotivating Persistent Adversaries* 
 
-- [Details](https://www.youtube.com/watch?v=FcgT_BkCAPA)
-
-#### 2018 OWASP RTP
-
-##### *Title*
-
-- [Details]()
+- [Details](https://www.triangleinfosecon.com/2018presentations/)
+- [Video](https://www.youtube.com/watch?v=FcgT_BkCAPA)
 
 #### 2016 QCon SF
 
