@@ -8,6 +8,55 @@ Speaking details, videos, and slides are listed here. If you're interested in ha
 
 Conferences & other public events
 
+#### 2020 OWASP AppSec California
+
+##### *The State of Credential Stuffing and the Future of Account Takeovers*
+
+- [Video](https://www.youtube.com/watch?v=XgPtLZQKQzo&feature=youtu.be)
+- [Details](https://appseccalifornia2020.sched.com/event/XLth/the-state-of-credential-stuffing-and-the-future-of-account-takeovers)
+- [Slides](https://www.slideshare.net/JarrodOverson/appseccali-how-credential-stuffing-is-evolving)
+
+#### 2019 JSConf Japan
+
+##### *Analysis of an exploited npm package*
+
+- [Details](https://jsconf.jp/2019/talk/jarrod-overson)
+- [Slides](https://www.slideshare.net/JarrodOverson/jsconf-jp-analysis-of-an-exploited-npm-package-eventstreams-role-in-a-supply-chain-attack)
+
+#### 2019 PasswordsCon
+
+##### *How Credential Stuffing is evolving*
+
+- [Video](https://www.youtube.com/watch?v=9F_3EhNrM-0)
+- [Details](https://internetdagarna.se/program/passwordscon-part-2/)
+
+#### 2019 OWASP AppSec Amsterdam
+
+##### *The State of Credential Stuffing and the Future of Account Takeovers*
+
+- [Video](https://www.youtube.com/watch?v=OtjK7xxHVm4&list=PLpr-xdpM8wG9X8a_fqWx39ZBJJqiukQmC)
+- [Details](https://globalappsecamsterdam2019.sched.com/event/UBQv/the-state-of-credential-stuffing-and-the-future-of-account-takeovers)
+
+#### 2019 FS-ISAC
+
+##### *Imitation Attacks: What is Driving Attack Evolution?*
+
+- No public details
+
+#### 2019 Evanta CISO Summit Sydney
+
+##### *Imitation Attacks: What is Driving Attack Evolution?*
+
+- No public details
+
+#### 2019 BSides PDX
+
+##### *Analysis of an exploited npm package*
+
+- [Details](https://bsidespdx.org/events/2019/speakers.html#How%20did%208%20million%20developers%20download%20an%20exploit%20with%20no%20one%20noticing?)
+- [Slides](https://www.slideshare.net/JarrodOverson/analysis-of-an-oss-supply-chain-attack-how-did-8-millions-developers-download-an-exploit-with-no-one-noticing)
+- [Video](https://www.youtube.com/watch?v=Cm1kR9CBiPI)
+
 #### 2019 Cirosec Trend-days Roadshow
 
 ##### *Imitation Attacks - How do you stop the abuse of inherent functionality?*
