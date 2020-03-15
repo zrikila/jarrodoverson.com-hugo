@@ -10,7 +10,7 @@ preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
 [params]
-  description = "Describe your website" # meta description
+  description = "JavaScript, Automation, Hacking, and Security." # meta description
   author = "Jarrod Overson"
   authorLink = "https://jarrodoverson.com/"
   bio = [
